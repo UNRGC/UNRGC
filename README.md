@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sources/UNRGC.png" height="64" alt="logo" />
+  <img src="sources/UNRGC.png" height="256" alt="logo" />
 </p>
 
 ## 👻 Sobre mi:
@@ -16,5 +16,4 @@ Hola, soy Ulises Noriega, estudiante de la carrera Desarrollo de Software Multip
 
 ## 🎖️ Estadisticas de GitHub:
 
-![](https://nirzak-streak-stats.vercel.app/?user=UNRGC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UNRGC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=UNRGC&theme=github_dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UNRGC&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
